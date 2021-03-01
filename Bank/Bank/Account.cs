@@ -30,7 +30,7 @@ namespace Bank
             {
                 Console.WriteLine("You don't have sufficient balance");
             }
-          else if (amount == 0 || amount <= 0)
+          else if (amount <= 0)
             {
                 Console.WriteLine("You have entered invalid input");
             }
@@ -44,16 +44,36 @@ namespace Bank
 
         public void Deposite(double amount)
         {
-            this.balance = this.balance + amount;
+            if (amount <= 0)
+            {
+                Console.WriteLine("You have entered invalid input");
+            }
+            else
+            {
+                this.balance = this.balance + amount;
             Console.WriteLine("Deposite success \n");
             Console.WriteLine("New balance:" + this.Balance);
+            }
+            
         }
 
         public void Transfer(Account receiver,double amount)
         {
-            receiver.Balance = receiver.Balance + amount;
-            this.Balance = this.Balance - amount;
-            Console.WriteLine("Tansfer successfull of amount"+amount);
+            if(this.balance < amount)
+            {
+                Console.WriteLine("TransFer not possible!!!Not Enough money");
+            }
+            else if (amount <= 0)
+            {
+                Console.WriteLine("You have entered invalid input");
+            }
+            else
+            {
+                receiver.Balance = receiver.Balance + amount;
+                this.Balance = this.Balance - amount;
+                Console.WriteLine("Tansfer successfull of amount" + amount);
+            }
+            
         }
         public void ShowAccountInformation()
         {
