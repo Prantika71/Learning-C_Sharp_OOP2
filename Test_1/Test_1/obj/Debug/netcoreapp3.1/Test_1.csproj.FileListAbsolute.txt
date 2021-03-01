@@ -1,0 +1,13 @@
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_1\Test_1\bin\Debug\netcoreapp3.1\Test_1.exe
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_1\Test_1\bin\Debug\netcoreapp3.1\Test_1.deps.json
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_1\Test_1\bin\Debug\netcoreapp3.1\Test_1.runtimeconfig.json
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_1\Test_1\bin\Debug\netcoreapp3.1\Test_1.runtimeconfig.dev.json
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_1\Test_1\bin\Debug\netcoreapp3.1\Test_1.dll
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_1\Test_1\bin\Debug\netcoreapp3.1\Test_1.pdb
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_1\Test_1\obj\Debug\netcoreapp3.1\Test_1.csprojAssemblyReference.cache
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_1\Test_1\obj\Debug\netcoreapp3.1\Test_1.AssemblyInfoInputs.cache
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_1\Test_1\obj\Debug\netcoreapp3.1\Test_1.AssemblyInfo.cs
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_1\Test_1\obj\Debug\netcoreapp3.1\Test_1.csproj.CoreCompileInputs.cache
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_1\Test_1\obj\Debug\netcoreapp3.1\Test_1.dll
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_1\Test_1\obj\Debug\netcoreapp3.1\Test_1.pdb
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_1\Test_1\obj\Debug\netcoreapp3.1\Test_1.genruntimeconfig.cache

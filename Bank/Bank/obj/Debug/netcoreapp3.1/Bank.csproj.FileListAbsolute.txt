@@ -1,0 +1,26 @@
+C:\Users\Durjoy\Source\Repos\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.exe
+C:\Users\Durjoy\Source\Repos\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.deps.json
+C:\Users\Durjoy\Source\Repos\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.json
+C:\Users\Durjoy\Source\Repos\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.dev.json
+C:\Users\Durjoy\Source\Repos\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.dll
+C:\Users\Durjoy\Source\Repos\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\Durjoy\Source\Repos\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.csprojAssemblyReference.cache
+C:\Users\Durjoy\Source\Repos\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfoInputs.cache
+C:\Users\Durjoy\Source\Repos\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfo.cs
+C:\Users\Durjoy\Source\Repos\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Durjoy\Source\Repos\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.dll
+C:\Users\Durjoy\Source\Repos\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\Durjoy\Source\Repos\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.genruntimeconfig.cache
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.exe
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.deps.json
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.json
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.dev.json
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.dll
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.pdb
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.csprojAssemblyReference.cache
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfoInputs.cache
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfo.cs
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.CoreCompileInputs.cache
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.dll
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.genruntimeconfig.cache

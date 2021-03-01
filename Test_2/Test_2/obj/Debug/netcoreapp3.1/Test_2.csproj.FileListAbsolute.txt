@@ -1,0 +1,13 @@
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_2\Test_2\bin\Debug\netcoreapp3.1\Test_2.exe
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_2\Test_2\bin\Debug\netcoreapp3.1\Test_2.deps.json
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_2\Test_2\bin\Debug\netcoreapp3.1\Test_2.runtimeconfig.json
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_2\Test_2\bin\Debug\netcoreapp3.1\Test_2.runtimeconfig.dev.json
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_2\Test_2\bin\Debug\netcoreapp3.1\Test_2.dll
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_2\Test_2\bin\Debug\netcoreapp3.1\Test_2.pdb
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_2\Test_2\obj\Debug\netcoreapp3.1\Test_2.csprojAssemblyReference.cache
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_2\Test_2\obj\Debug\netcoreapp3.1\Test_2.AssemblyInfoInputs.cache
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_2\Test_2\obj\Debug\netcoreapp3.1\Test_2.AssemblyInfo.cs
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_2\Test_2\obj\Debug\netcoreapp3.1\Test_2.csproj.CoreCompileInputs.cache
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_2\Test_2\obj\Debug\netcoreapp3.1\Test_2.dll
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_2\Test_2\obj\Debug\netcoreapp3.1\Test_2.pdb
+E:\AIUB\NOTES-10TH SEMESTER\C#\Learning-C-\Test_2\Test_2\obj\Debug\netcoreapp3.1\Test_2.genruntimeconfig.cache
