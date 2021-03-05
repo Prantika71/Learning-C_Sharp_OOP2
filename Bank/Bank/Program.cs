@@ -12,7 +12,7 @@ namespace Bank
             Address ad1 = new Address("1/D", "498", "DHAKA", "BANGADESH");
             
             
-            Account a1 = new Account("Sneha",5000,ad1);
+            Account a1 = new Account("Sneha",90000,ad1);
             bank.AddAccount(a1);
           
             Address ad2 = new Address("1/B", "48", "DHAKA", "BANGADESH");
